@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliformismo", "Poliformismo\Poliformismo.csproj", "{9869FDE6-8022-48CC-A956-6717007A3ADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poliformismo", "Poliformismo\Poliformismo.csproj", "{9869FDE6-8022-48CC-A956-6717007A3ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Le classi", "Le classi\Le classi.csproj", "{2A73FB69-6C87-4496-81CF-EE05AB0DE5AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9869FDE6-8022-48CC-A956-6717007A3ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9869FDE6-8022-48CC-A956-6717007A3ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9869FDE6-8022-48CC-A956-6717007A3ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A73FB69-6C87-4496-81CF-EE05AB0DE5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A73FB69-6C87-4496-81CF-EE05AB0DE5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A73FB69-6C87-4496-81CF-EE05AB0DE5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A73FB69-6C87-4496-81CF-EE05AB0DE5AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
